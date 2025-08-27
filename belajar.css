@@ -1,0 +1,60 @@
+.bab1 h1 {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    display: block; /* Ubah ke block agar memenuhi lebar parent */
+    text-align: center; /* Teks di tengah */
+    margin: 0 auto; /* Untuk posisi tengah horizontal */
+    max-width: max-content; /* Lebar sesuai isi teks */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+}
+
+.bab1 p {
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid #ddd; /* garis tepi tipis */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+
+.bab2 h1 {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    display: block; /* Ubah ke block agar memenuhi lebar parent */
+    text-align: center; /* Teks di tengah */
+    margin: 0 auto; /* Untuk posisi tengah horizontal */
+    max-width: max-content; /* Lebar sesuai isi teks */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+}
+
+.bab2 p {
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid #ddd; /* garis tepi tipis */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+
+
+.bab3 h1 {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    display: block; /* Ubah ke block agar memenuhi lebar parent */
+    text-align: center; /* Teks di tengah */
+    margin: 0 auto; /* Untuk posisi tengah horizontal */
+    max-width: max-content; /* Lebar sesuai isi teks */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+}
+
+.bab3 p {
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid #ddd; /* garis tepi tipis */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
